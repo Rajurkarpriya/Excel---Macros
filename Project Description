@@ -1,0 +1,46 @@
+📊 Excel Macros for Data Formatting & Chart Creation
+This project demonstrates how to use Excel Macros to automate data formatting and visualization.
+I used a dataset containing country-wise revenue and profit for Week 1, Week 2, and Week 3, and automated the process of:
+✅ Cleaning & formatting the raw dataset
+✅ Applying colors, borders, and bold headings
+✅ Creating charts automatically
+
+📹 Project Demo
+See how I converted a plain dataset into a clean, colorful, and chart-ready report using Macros!
+
+📂 Files in this Repository
+File Name	Description
+raw_dataset.xlsx	Unformatted dataset (Country, Revenue, Profit for 3 weeks)
+clean_dataset.xlsx	Well-formatted dataset created using Macros
+macro_demo.xlsm	Excel file with recorded Macros for formatting and chart creation
+
+🔥 Why Use Macros?
+Save time on repetitive tasks
+
+Avoid manual formatting errors
+
+Create standardized and professional reports quickly
+
+Automate chart creation for better data visualization
+
+🚀 How to Use
+1️⃣ Download the macro_demo.xlsm file.
+2️⃣ Enable Macros in Excel (Enable Content when prompted).
+3️⃣ Open the file and run the Macro to format and create charts automatically.
+4️⃣ Use the raw_dataset.xlsx file to practice formatting on your own.
+
+📌 Tech Stack
+🔹 Microsoft Excel (Macros / VBA)
+
+🌟 Features
+✔️ Automates table formatting (bold headers, colors, borders)
+✔️ Creates dynamic charts based on data
+✔️ Uses recorded Macros for easy learning
+
+🏆 Use Cases
+🔹 Monthly/Weekly Reports
+🔹 Sales & Profit Analysis
+🔹 Data Cleaning + Visualization
+
+🤝 Contribute
+Want to improve or add more Macros? Fork this repo and submit a pull request!
